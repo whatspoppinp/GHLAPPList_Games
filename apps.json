@@ -1,5 +1,5 @@
 {
-  "System A": [
+  "Nintendo Switch 1 & 2": [
     {
       "name": "XXX",
       "repository": "XXX",
@@ -20,7 +20,7 @@
     }
   ],
 
-  "System B": [
+  "Nintendo Gamecube & Wii & WiiU": [
     {
       "name": "XXX",
       "repository": "XXX",
@@ -41,7 +41,91 @@
     }
   ],
 
-  "System C": [
+  "Nintendo DS & 3DS": [
+    {
+      "name": "XXX",
+      "repository": "XXX",
+      "folderName": "XXX",
+      "appIconUrl": "XXX"
+    },
+    {
+      "name": "XXX",
+      "repository": "XXX",
+      "folderName": "XXX",
+      "appIconUrl": "XXX"
+    },
+    {
+      "name": "XXX",
+      "repository": "XXX",
+      "folderName": "XXX",
+      "appIconUrl": "XXX"
+    }
+  ],
+
+  "Nintendo GameBoy & GomeBoy Color & GameBoy Advance": [
+    {
+      "name": "XXX",
+      "repository": "XXX",
+      "folderName": "XXX",
+      "appIconUrl": "XXX"
+    },
+    {
+      "name": "XXX",
+      "repository": "XXX",
+      "folderName": "XXX",
+      "appIconUrl": "XXX"
+    },
+    {
+      "name": "XXX",
+      "repository": "XXX",
+      "folderName": "XXX",
+      "appIconUrl": "XXX"
+    }
+  ],
+
+  "Sony PS5 & PS4": [
+    {
+      "name": "CTR Nitro-Fueled (Online)",
+      "repository": "Ryu7w7/OCTR-NitroFueled-PC",
+      "folderName": "CrashTeamRacingNitroFueled-PS4",
+      "appIconUrl": "https://assets-prd.ignimgs.com/2021/12/17/crash-team-racing-nitro-fueled-button-fin-1639766206991.jpg"
+    },
+    {
+      "name": "XXX",
+      "repository": "XXX",
+      "folderName": "XXX",
+      "appIconUrl": "XXX"
+    },
+    {
+      "name": "XXX",
+      "repository": "XXX",
+      "folderName": "XXX",
+      "appIconUrl": "XXX"
+    }
+  ],
+
+  "Sony PS3 & PS2 & PS1": [
+    {
+      "name": "XXX",
+      "repository": "XXX",
+      "folderName": "XXX",
+      "appIconUrl": "XXX"
+    },
+    {
+      "name": "XXX",
+      "repository": "XXX",
+      "folderName": "XXX",
+      "appIconUrl": "XXX"
+    },
+    {
+      "name": "XXX",
+      "repository": "XXX",
+      "folderName": "XXX",
+      "appIconUrl": "XXX"
+    }
+  ],
+	
+  "System X": [
     {
       "name": "XXX",
       "repository": "XXX",
